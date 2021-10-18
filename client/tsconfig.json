@@ -27,5 +27,6 @@
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
     "strictTemplates": false,
+    "noImplicitAny": true,
   }
 }
